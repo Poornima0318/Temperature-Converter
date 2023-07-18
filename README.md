@@ -9,7 +9,7 @@ The Temperature Converter is a simple web application that allows users to conve
 Enter the temperature value in the input field.
 Select the unit of the temperature from the dropdown (Celsius, Fahrenheit, or Kelvin).
 Click the "Convert" button to get the converted temperature values.
-##Technologies Used
-HTML
-CSS
-JavaScript
+## Technologies Used
+-HTML
+-CSS
+-JavaScript
